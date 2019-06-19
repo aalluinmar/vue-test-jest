@@ -18,12 +18,9 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
 ## Unit testing using JEST
 
-#install vue-cli
+#install vue-cli 
 npm install -g vue-cli
 
 #create vue-test webpack
@@ -43,3 +40,5 @@ npm install -D jest vue-jest jest-serializer-vue
 
 #save vue-jest
 npm i -D vue-jest
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
