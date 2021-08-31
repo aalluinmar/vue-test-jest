@@ -15,7 +15,7 @@ describe('MessageList.vue', () => {
         const wrapper = mount(MessageList);
         expect(wrapper.vm.msgg).toBe('aravind')
     })
-    it('increments or decrement count when button is clicked', () => {
+    it('FRUIT STORE is present in navbar', () => {
         const wrapper = mount(MessageList)
         const message = wrapper.find('p.navbar-brand').text();
         // const message1 = wrapper.find('h3').text();
